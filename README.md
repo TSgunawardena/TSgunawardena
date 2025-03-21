@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tharusha Gunawardena
 ============================================================================================================================================
 
-Software Engineering Intern
+Software Engineer
 ---------------------------
 
 An Undergraduate intern who loves challenges
 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [tsamindagunawardena@gmail.com](mailto:tsamindagunawardena@gmail.com)
-* 🚀  I'm currently working on [Snake Detection Application](http://https://github.com/GitDarrwin/AkashDarwin_SDGP_SE_30_MindBenders)
 * 🧠  I'm learning React, Node.js, Flutter
 
 ### Skills
